@@ -1,4 +1,4 @@
-# Multi-Classification-Task
+# Multi-Classification-Task Using Neural Network
 
 ### I will discover how can use Keras to develop and evaluate neural network models for multi-class classification problems.
 
